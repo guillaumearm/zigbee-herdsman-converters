@@ -1,0 +1,1 @@
+{"version":3,"file":"ubisys.d.ts","sourceRoot":"","sources":["../src/lib/ubisys.ts"],"names":[],"mappings":"AAAA,OAAO,EAAS,YAAY,EAAC,MAAM,SAAS,CAAC;AAE7C,OAAO,EAAU,WAAW,EAA6B,MAAM,gBAAgB,CAAC;AAGhF,eAAO,MAAM,kBAAkB;oCACK,QAAQ,WAAW,CAAC;4CAUZ,QAAQ,WAAW,CAAC;uCAazB,QAAQ,WAAW,CAAC;wBAWrC,YAAY;CAyCjC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"extend.d.ts","sourceRoot":"","sources":["../src/lib/extend.ts"],"names":[],"mappings":"AAIA,OAAO,EAAC,MAAM,EAAC,MAAM,SAAS,CAAC;AAG/B,QAAA,MAAM,MAAM;uBACU,OAAO,cAAc,KAAM,MAAM;uCAYjB,OAAO,8BAA8B,KAAM,MAAM;iDA2BvC,OAAO,wCAAwC,KAAM,MAAM;6CAiC/D,OAAO,oCAAoC,KAAM,MAAM;uDA4B7C,OAAO,8CAA8C,KAAM,MAAM;CAsCtH,CAAC;AAEF,eAAe,MAAM,CAAC"}
